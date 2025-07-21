@@ -23,7 +23,7 @@ MiguelSposito/Miguel-Sposito-Borges
 
 ### 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Miguel Borges**, tenho 20 anos e sou desenvolvedor **Front-End**. Sou apaixonado por tecnologia e estou sempre em busca de aprender mais sobre desenvolvimento web, interfaces e boas práticas de código.
+Olá! Meu nome é **Miguel Borges**, tenho **20 anos** e sou um desenvolvedor **Front-End** apaixonado por tecnologia. Gosto de criar interfaces modernas, responsivas e funcionais. Estou sempre em busca de evoluir minhas habilidades em JavaScript, React, e novas ferramentas do ecossistema web.
 
 ---
 
@@ -44,8 +44,8 @@ Olá! Meu nome é **Miguel Borges**, tenho 20 anos e sou desenvolvedor **Front-E
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSposito&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSposito&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="180"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@ Olá! Meu nome é **Miguel Borges**, tenho 20 anos e sou desenvolvedor **Front-E
 
 ### 💬 Contato
 
-Entre em contato comigo pelas redes sociais acima ou envie um e-mail para: **seuemail@gmail.com**
+Entre em contato comigo pelas redes sociais acima ou envie um e-mail para: **miggsx1@outlook.com**
 
 ---
 
