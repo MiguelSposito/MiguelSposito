@@ -8,12 +8,6 @@ MiguelSposito/Miguel-Sposito-Borges
 </p>
 
 <div align="center">
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -50,12 +44,8 @@ Olá! Meu nome é **Miguel Borges**, tenho **20 anos** e sou um desenvolvedor **
 
 ---
 
-
----
-
 ### 💬 Contato
 
-Entre em contato comigo pelas redes sociais acima ou envie um e-mail para: **miggsx1@outlook.com**
+Entre em contato comigo pelo LinkedIn ou envie um e-mail para: **miggsx1@outlook.com**
 
 ---
-
