@@ -50,9 +50,6 @@ Olá! Meu nome é **Miguel Borges**, tenho **20 anos** e sou um desenvolvedor **
 
 ---
 
-### 🐍 Snake
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
