@@ -8,7 +8,7 @@ MiguelSposito/Miguel-Sposito-Borges
 </p>
 
 <div align="center">
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/miguel-borges-952254301/)/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-borges-952254301/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -46,6 +46,6 @@ Olá! Meu nome é **Miguel Borges**, tenho **20 anos** e sou um desenvolvedor **
 
 ### 💬 Contato
 
-Entre em contato comigo pelo LinkedIn ou envie um e-mail para: **miggsx1@outlook.com**
+Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/miguel-borges-952254301/) ou envie um e-mail para: **miggsx1@outlook.com**
 
 ---
