@@ -33,16 +33,6 @@ Olá! Meu nome é **Miguel Borges**, tenho **20 anos** e sou um desenvolvedor **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
 </div>
 
----
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSposito&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSposito&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="180"/>
-</div>
-
----
 
 ### 💬 Contato
 
