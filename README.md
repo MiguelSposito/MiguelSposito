@@ -17,7 +17,7 @@ MiguelSposito/Miguel-Sposito-Borges
 
 ### 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Miguel Borges**, tenho **20 anos** e sou um desenvolvedor **Front-End** apaixonado por tecnologia. Gosto de criar interfaces modernas, responsivas e funcionais. Estou sempre em busca de evoluir minhas habilidades em JavaScript, React, e novas ferramentas do ecossistema web.
+Olá! Meu nome é **Miguel Borges**, tenho **21 anos** e sou um desenvolvedor **Front-End** apaixonado por tecnologia. Gosto de criar interfaces modernas, responsivas e funcionais. Estou sempre em busca de evoluir minhas habilidades em JavaScript, React, e novas ferramentas do ecossistema web.
 
 ---
 
